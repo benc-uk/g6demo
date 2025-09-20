@@ -2,6 +2,10 @@
 
 A simple demonstration of using [AntV G6](https://g6.antv.antgroup.com/) to create interactive network diagrams and graph visualizations.
 
+## 🚀 Live Demo
+
+**[View the live demo here →](http://code.benco.io/g6demo/)**
+
 ## What is G6?
 
 G6 is a powerful JavaScript library for graph visualization and analysis. It provides:
